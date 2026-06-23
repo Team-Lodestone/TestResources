@@ -1,0 +1,4 @@
+*.dat	-diff
+*.dat_old	-diff
+*.lock	-diff
+*.zip -diff

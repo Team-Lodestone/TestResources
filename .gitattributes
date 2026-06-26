@@ -1,4 +1,5 @@
 *.dat	-diff
-*.dat_old	-diff
+*.dat_old   -diff
+*.mclevel   -diff
 *.lock	-diff
 *.zip -diff
